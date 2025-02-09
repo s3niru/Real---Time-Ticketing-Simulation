@@ -1,0 +1,111 @@
+
+
+2024-12-12T10:13:53.202679800: 
+Configuration saved...
+
+2024-12-12T10:13:54.476727400: 
+Vendor1
+added ticket....
+Available tickets : 5
+
+2024-12-12T10:13:55.113824300: 
+Vendor1
+added ticket....
+Available tickets : 6
+
+2024-12-12T10:13:55.115804: 
+Vendor1 Thread ended
+
+2024-12-12T10:13:56.465652100: 
+Buyer2
+bought ticket....
+Available tickets : 5
+
+2024-12-12T10:13:57.845112700: 
+Buyer1
+bought ticket....
+Available tickets : 4
+
+2024-12-12T10:13:58.958717600: 
+Buyer1
+bought ticket....
+Available tickets : 3
+
+2024-12-12T10:13:59.384214600: 
+Buyer1
+bought ticket....
+Available tickets : 2
+
+2024-12-12T10:14:00.826268200: 
+Buyer1
+bought ticket....
+Available tickets : 1
+
+2024-12-12T10:14:01.391522: 
+Vendor2
+added ticket....
+Available tickets : 2
+
+2024-12-12T10:14:01.860293500: 
+Vendor2
+added ticket....
+Available tickets : 3
+
+2024-12-12T10:14:02.036045700: 
+Vendor2
+added ticket....
+Available tickets : 4
+
+2024-12-12T10:14:11.329981700: 
+Buyer1
+bought ticket....
+Available tickets : 3
+
+2024-12-12T10:14:12.265363800: 
+Buyer1
+bought ticket....
+Available tickets : 2
+
+2024-12-12T10:14:12.266364: 
+Buyer1Thread ended
+
+2024-12-12T10:14:12.267363500: 
+Vendor2
+added ticket....
+Available tickets : 3
+
+2024-12-12T10:14:13.544375100: 
+Vendor2
+added ticket....
+Available tickets : 4
+
+2024-12-12T10:14:15.414362500: 
+Vendor2
+added ticket....
+Available tickets : 5
+
+2024-12-12T10:14:15.415362600: 
+Buyer2
+bought ticket....
+Available tickets : 4
+
+2024-12-12T10:14:16.942462900: 
+Buyer2
+bought ticket....
+Available tickets : 3
+
+2024-12-12T10:14:17.844684400: 
+Buyer2
+bought ticket....
+Available tickets : 2
+
+2024-12-12T10:14:17.845681900: 
+Buyer2Thread ended
+
+2024-12-12T10:14:19.025530400: 
+Vendor2
+added ticket....
+Available tickets : 3
+
+2024-12-12T10:14:19.025530400: 
+Vendor2 Thread ended

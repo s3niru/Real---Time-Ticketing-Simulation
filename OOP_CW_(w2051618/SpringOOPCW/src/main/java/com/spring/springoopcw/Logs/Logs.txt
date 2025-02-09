@@ -1,0 +1,226 @@
+
+
+2024-12-12T12:12:14.389581900: 
+Configuration file saved successfully....
+
+2024-12-12T12:12:19.308316400: 
+Program Has Started....
+
+2024-12-12T12:12:19.380270100: 
+Vendor1
+added ticket....
+Available tickets : 13
+
+2024-12-12T12:12:19.976915800: 
+Buyer6
+bought ticket....
+Available tickets : 12
+
+2024-12-12T12:12:21.274933800: 
+Buyer5
+bought ticket....
+Available tickets : 11
+
+2024-12-12T12:12:23.082333900: 
+Buyer3
+bought ticket....
+Available tickets : 10
+
+2024-12-12T12:12:24.097078900: 
+Buyer4
+bought ticket....
+Available tickets : 9
+
+2024-12-12T12:12:24.633738600: 
+Buyer2
+bought ticket....
+Available tickets : 8
+
+2024-12-12T12:12:26.283492700: 
+Vendor4
+added ticket....
+Available tickets : 9
+
+2024-12-12T12:12:27.949374800: 
+Vendor5
+added ticket....
+Available tickets : 10
+
+2024-12-12T12:12:28.953596100: 
+Vendor3
+added ticket....
+Available tickets : 11
+
+2024-12-12T12:12:30.107610300: 
+Vendor2
+added ticket....
+Available tickets : 12
+
+2024-12-12T12:12:30.119749200: 
+Buyer4 thread ended.
+Customer4 bought tickets: 3
+
+2024-12-12T12:12:30.119749200: 
+Buyer1 thread ended.
+Customer1 bought tickets: 10
+
+2024-12-12T12:12:30.119749200: 
+Buyer5 thread ended.
+Customer5 bought tickets: 2
+
+2024-12-12T12:12:30.123105700: 
+Buyer6 thread ended.
+Customer6 bought tickets: 16
+
+2024-12-12T12:12:30.126110600: 
+Buyer3 thread ended.
+Customer3 bought tickets: 17
+
+2024-12-12T12:12:30.126110600: 
+Buyer2 thread ended.
+Customer2 bought tickets: 19
+
+2024-12-12T12:12:39.577835900: 
+Vendor5
+added ticket....
+Available tickets : 13
+
+2024-12-12T12:12:39.578886500: 
+Vendor2
+added ticket....
+Available tickets : 14
+
+2024-12-12T12:12:39.579965700: 
+Vendor2 thread ended.
+Vendor2 added tickets:2
+
+2024-12-12T12:12:41.083172700: 
+Vendor5
+added ticket....
+Available tickets : 15
+
+2024-12-12T12:12:41.086175100: 
+Vendor3
+added ticket....
+Available tickets : 16
+
+2024-12-12T12:12:41.086175100: 
+Vendor1
+added ticket....
+Available tickets : 17
+
+2024-12-12T12:12:41.086175100: 
+Vendor4
+added ticket....
+Available tickets : 18
+
+2024-12-12T12:12:41.635741300: 
+Vendor1
+added ticket....
+Available tickets : 19
+
+2024-12-12T12:12:43.262836400: 
+Vendor3
+added ticket....
+Available tickets : 20
+
+2024-12-12T12:12:43.761450600: 
+Vendor5
+added ticket....
+Available tickets : 21
+
+2024-12-12T12:12:43.763608400: 
+Vendor5 thread ended.
+Vendor5 added tickets:4
+
+2024-12-12T12:12:45.001352800: 
+Vendor3
+added ticket....
+Available tickets : 22
+
+2024-12-12T12:12:46.736469700: 
+Vendor1
+added ticket....
+Available tickets : 23
+
+2024-12-12T12:12:56.090791500: 
+Vendor4
+added ticket....
+Available tickets : 24
+
+2024-12-12T12:12:56.091794200: 
+Vendor1
+added ticket....
+Available tickets : 25
+
+2024-12-12T12:12:56.091794200: 
+Vendor3
+added ticket....
+Available tickets : 26
+
+2024-12-12T12:12:56.120060100: 
+Vendor1
+added ticket....
+Available tickets : 27
+
+2024-12-12T12:12:57.858227400: 
+Vendor3
+added ticket....
+Available tickets : 28
+
+2024-12-12T12:12:59.494540800: 
+Vendor4
+added ticket....
+Available tickets : 29
+
+2024-12-12T12:13:00.362754400: 
+Vendor3
+added ticket....
+Available tickets : 30
+
+2024-12-12T12:13:01.453929300: 
+Vendor1
+added ticket....
+Available tickets : 31
+
+2024-12-12T12:13:11.098552300: 
+Vendor4
+added ticket....
+Available tickets : 32
+
+2024-12-12T12:13:11.099616900: 
+Vendor3
+added ticket....
+Available tickets : 33
+
+2024-12-12T12:13:11.100771500: 
+Vendor4 thread ended.
+Vendor4 added tickets:5
+
+2024-12-12T12:13:11.100771500: 
+Vendor1
+added ticket....
+Available tickets : 34
+
+2024-12-12T12:13:11.102544400: 
+Vendor1 thread ended.
+Vendor1 added tickets:8
+
+2024-12-12T12:13:11.352885: 
+Vendor3
+added ticket....
+Available tickets : 35
+
+2024-12-12T12:13:11.675861700: 
+Vendor3
+added ticket....
+Available tickets : 36
+
+2024-12-12T12:13:11.991685800: 
+Vendor3
+added ticket....
+Available tickets : 37
+
+2024-12-12T12:13:11.991685800: 
+Vendor3 thread ended.
+Vendor3 added tickets:11

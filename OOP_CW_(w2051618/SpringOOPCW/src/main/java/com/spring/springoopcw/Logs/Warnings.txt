@@ -1,0 +1,67 @@
+
+
+2024-12-12T12:12:30.110616500: 
+
+Vendor3
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:30.110616500: 
+
+Vendor5
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:30.110616500: 
+
+Vendor4
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:30.110616500: 
+
+Vendor1
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:30.110616500: 
+
+Vendor2
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:46.736469700: 
+
+Vendor4
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:46.736469700: 
+
+Vendor3
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:12:46.738176800: 
+
+Vendor1
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:13:01.453929300: 
+
+Vendor3
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:13:01.458488900: 
+
+Vendor4
+Release rate exceeded....
+Waiting - 9S
+
+2024-12-12T12:13:01.458488900: 
+
+Vendor1
+Release rate exceeded....
+Waiting - 9S
